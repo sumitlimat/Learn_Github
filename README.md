@@ -1,4 +1,5 @@
 
+
 # Learn_Github
 Learning Git hub
 Second Change
@@ -9,3 +10,5 @@ Fisrt Branch - Change to include
 First Branc - change to be excluded 
 Master Branch - Change that is not in the branch 
 First Branch - Checking new option
+Change in master branch before merging the branch 2 
+
